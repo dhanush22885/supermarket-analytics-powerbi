@@ -46,3 +46,7 @@ Help businesses make data-driven decisions by observing KPIs and trends.
 
 4. Custom Visualizations (Map, KPI Cards, Donut Chart)
 
+
+Result:
+
+![image alt][https://github.com/dhanush22885/supermarket-analytics-powerbi/blob/b436d086523a19fc1f4c45b98c9314abd2e4367d/sal.jpg]
