@@ -49,4 +49,4 @@ Help businesses make data-driven decisions by observing KPIs and trends.
 
 Result:
 
-![image alt][https://github.com/dhanush22885/supermarket-analytics-powerbi/blob/b436d086523a19fc1f4c45b98c9314abd2e4367d/sal.jpg]
+![image alt](https://github.com/dhanush22885/supermarket-analytics-powerbi/blob/b436d086523a19fc1f4c45b98c9314abd2e4367d/sal.jpg)
