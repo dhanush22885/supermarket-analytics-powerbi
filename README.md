@@ -44,7 +44,7 @@ Help businesses make data-driven decisions by observing KPIs and trends.
 
 3. Power Query
 
-4. Custom Visualizations (Map, KPI Cards, Donut Chart)
+4. Custom Visualizations (Map, KPI Cards, Donut chart)
 
 
 Result:
